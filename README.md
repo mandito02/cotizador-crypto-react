@@ -1,4 +1,4 @@
-# Sistema de Gestión de Gastos ReactJS+Vite
+# Sistema de Conversion de Monedas en tiempo real ReactJS+Vite
 
 ## Objetivo General
 
